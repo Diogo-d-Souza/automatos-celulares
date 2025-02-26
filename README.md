@@ -1,6 +1,6 @@
-# Simulação de Propagação de Incêndios na Amazônia
+# Simulação de Propagação de Incêndios
 
-Este projeto simula a propagação de incêndios florestais na Amazônia utilizando autômatos celulares em Python.
+Este projeto simula a propagação de incêndios florestais utilizando autômatos celulares em Python.
 
 ## Requisitos
 
